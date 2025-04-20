@@ -1,5 +1,4 @@
-
-![7.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/mc0ozkey2t5-c_YM8lQ21.png)
+![SD.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/JALO6mW1WZSHjUxsotxW2.png)
 
 # **Anime-Classification-v1.0**
 
